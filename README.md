@@ -7,7 +7,7 @@ Basic MYSQL commands to HANA
  
 <head>
     <meta charset="utm-8">
-    <title> <h3> ABAP keywords and its  types</h3>  </title>
+    <title> <h3> SQL_Basics_HANA and its  types</h3>  </title>
 </head>
 
 <body>
